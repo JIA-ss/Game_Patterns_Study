@@ -1,0 +1,3 @@
+/Users/ssjia/Documents/git_Proj/Game_Patterns_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ssjia/Documents/git_Proj/Game_Patterns_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ssjia/Documents/git_Proj/Game_Patterns_Study/cmake-build-debug/CMakeFiles/Game_Patterns_Study.dir
